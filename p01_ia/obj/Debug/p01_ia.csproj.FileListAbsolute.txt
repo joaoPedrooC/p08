@@ -1,0 +1,10 @@
+C:\Users\jp871\OneDrive\Área de Trabalho\p01_ia\p01_ia\bin\Debug\p01_ia.exe.config
+C:\Users\jp871\OneDrive\Área de Trabalho\p01_ia\p01_ia\bin\Debug\p01_ia.exe
+C:\Users\jp871\OneDrive\Área de Trabalho\p01_ia\p01_ia\bin\Debug\p01_ia.pdb
+C:\Users\jp871\OneDrive\Área de Trabalho\p01_ia\p01_ia\obj\Debug\p01_ia.csproj.AssemblyReference.cache
+C:\Users\jp871\OneDrive\Área de Trabalho\p01_ia\p01_ia\obj\Debug\p01_ia.Form1.resources
+C:\Users\jp871\OneDrive\Área de Trabalho\p01_ia\p01_ia\obj\Debug\p01_ia.Properties.Resources.resources
+C:\Users\jp871\OneDrive\Área de Trabalho\p01_ia\p01_ia\obj\Debug\p01_ia.csproj.GenerateResource.cache
+C:\Users\jp871\OneDrive\Área de Trabalho\p01_ia\p01_ia\obj\Debug\p01_ia.csproj.CoreCompileInputs.cache
+C:\Users\jp871\OneDrive\Área de Trabalho\p01_ia\p01_ia\obj\Debug\p01_ia.exe
+C:\Users\jp871\OneDrive\Área de Trabalho\p01_ia\p01_ia\obj\Debug\p01_ia.pdb
